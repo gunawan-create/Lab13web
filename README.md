@@ -63,6 +63,7 @@ menambahkan code module/user/profile.php
 
 ### Step 10
 menambahkan code template/footer.php
+
 <img width="428" height="444" alt="code footer" src="https://github.com/user-attachments/assets/59a61880-87f8-4844-8514-a6e5a4d0ea7b" />
 
 ### Step 11
