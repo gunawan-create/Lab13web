@@ -80,7 +80,7 @@ setelah menyelesaikan code php dan css, kita uji coba dengan masuk website "http
 <img width="1919" height="1139" alt="tampilan home" src="https://github.com/user-attachments/assets/ee2c0038-f1aa-4f85-9043-bc106e258123" />
 
 ### Tampilan Login
-setelah masuk ke tahap login masukann kode user 'admin' dan password 'admin123' setelah itu klik login
+setelah masuk ke tahap login masukkan kode user 'admin' dan password 'admin123' setelah itu klik login
 <img width="1919" height="1139" alt="tampilan login" src="https://github.com/user-attachments/assets/7126bca0-f6e8-412b-a771-8c3150a3714f" />
 
 ### Tampilan Header
