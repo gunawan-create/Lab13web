@@ -1,4 +1,4 @@
-## LAPORAN PRAKTIKUM 10
+## LAPORAN PRAKTIKUM 13
 NAMA : ALI GUNAWAN | KELAS : TI.24.A3 | NIM : 312410400
 
 ## Tujuan Praktikum
@@ -7,17 +7,17 @@ Praktikum ini bertujuan untuk membangun aplikasi web sederhana berbasis PHP deng
 ## Struktur Folder 
 
 ## DATABASE (phpMyAdmin)
-CREATE DATABASE latihan_oop;
-USE latihan_oop;
+### CREATE DATABASE latihan_oop;
+### USE latihan_oop;
 
-CREATE TABLE users (
+### CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     username VARCHAR(50),
     password VARCHAR(255),
     nama VARCHAR(100)
 );
 
-INSERT INTO users (username, password, nama) VALUES
+### INSERT INTO users (username, password, nama) VALUES
 ('admin', '$2y$10$uWdZ2x.hQfGqGz/..q7wue.3/a/e/e/e/e/e/e/e/e/e/e', 'Administrator');
 
 
